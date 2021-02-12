@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#URL for website hosted on Firebase
+## URL for website hosted on Firebase
 https://covid-19-tracker-5cd82.web.app/
 
 ## Available Scripts
