@@ -7,17 +7,16 @@ https://covid-19-tracker-5cd82.web.app/
 
 ## Description
 - Tech Stack
-  - React
-  - Firebase
-  - HTML
-  - CSS
-  - Reactjs
-  - Nodejs
+  - [Firebase](https://firebase.google.com/)
+  - [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [Reactjs](https://reactjs.org/)
+  - [Nodejs](https://nodejs.org/en/)
   - [CDC API](https://disease.sh/)
-  - Leaflet Map
+  - [Leaflet Map](https://leafletjs.com/)
 - Details
   - Displays live data of Covid-19 cases, recovered and death count for every country with a line graph and info box
-  - •	Displayed Leaflet Map with red circles and larger radius based off the info box clicked with data from CDC API
+  - Displayed Leaflet Map with red circles and larger radius based off the info box clicked with data from CDC API
 
 ## Available Scripts
 
