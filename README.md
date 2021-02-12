@@ -13,7 +13,7 @@ https://covid-19-tracker-5cd82.web.app/
   - CSS
   - Reactjs
   - Nodejs
-  - [CDC API] (https://disease.sh/)
+  - [CDC API](https://disease.sh/)
   - Leaflet Map
 - Details
   - Displays live data of Covid-19 cases, recovered and death count for every country with a line graph and info box
