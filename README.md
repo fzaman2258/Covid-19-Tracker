@@ -5,6 +5,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## URL for website hosted on Firebase
 https://covid-19-tracker-5cd82.web.app/
 
+## Description
+- Tech Stack
+  - React
+  - Firebase
+  - HTML
+  - CSS
+  - Reactjs
+  - Nodejs
+  - CDC API [https://disease.sh/]
+  - Leaflet Map
+- Details
+  - Displays live data of Covid-19 cases, recovered and death count for every country with a line graph and info box
+  - •	Displayed Leaflet Map with red circles and larger radius based off the info box clicked with data from CDC API
+
 ## Available Scripts
 
 In the project directory, you can run:
